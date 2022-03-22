@@ -2,9 +2,9 @@
 
 <p align="center">
 
-  <img src="  https://i.ibb.co/mzV3rYH/glitch-was-here.png
+  <img src="https://i.ibb.co/mzV3rYH/glitch-was-here.png"
 
-" width="470" height="470">
+ width="470" height="470">
 
 </p>
 
