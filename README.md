@@ -48,7 +48,7 @@ Best Tool For Increase Instagram Follower.
 
 <p align="center">
 
-  <a href="https://www.youtube.com/c/TermuxProfessorYT">
+  <a href="https://bit.ly/YT-PadangDarkSyatem">
 
     <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
 
