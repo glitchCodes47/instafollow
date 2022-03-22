@@ -23,7 +23,7 @@ ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 banner() {
 echo ""
 
-echo -e "\e[1;91m 
+echo -e 
 echo -e "\e[1;91m                :!777~.                 "
 echo -e "\e[1;91m               ~YJ!~~7!^                "
 echo -e "\e[1;91m               J7     J?^               "
